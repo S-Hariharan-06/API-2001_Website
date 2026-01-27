@@ -1,4 +1,4 @@
-# 🖥️ API-2001_Website - Your Simple API Solution
+# 🖥️ HARIHARAN S - Your Simple API Solution
 
 ## 🔗 Download Now
 [![Download API-2001_Website](https://img.shields.io/static/v1?label=Download&message=API-2001_Website&color=blue)](https://github.com/S-Hariharan-06/API-2001_Website/releases)
